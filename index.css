@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -8,4 +10,11 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.title {
+  font-size: 1 rem;
+  font-weight: 1 rem;
+  font-family: "Lobster", cursive;
+  color: white;
 }
