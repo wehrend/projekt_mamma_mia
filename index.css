@@ -13,6 +13,7 @@
 }
 
 .hero {
+  height: 100vh;
   background: url("./images/hero.jpg");
   background-position: center;
   background-repeat: no-repeat;
