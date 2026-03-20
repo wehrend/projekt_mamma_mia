@@ -69,6 +69,11 @@ body {
   background-color: transparent;
 }
 
+.container {
+  max-width: 85%;
+  margin: 0 auto;
+}
+
 .hero {
   height: calc(100vh - 2rem);
   background:
