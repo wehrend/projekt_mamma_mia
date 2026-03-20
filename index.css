@@ -18,11 +18,18 @@
   color: #fff;
   padding: 1rem;
   align-items: normal;
+  text-transform: uppercase;
 }
 
 .nav {
   height: 2rem;
   background-color: #1a1a1a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.8rem;
+  text-align: center;
 }
 
 .hero-action {
