@@ -13,6 +13,17 @@ body {
   --text-color: #fff;
 }
 
+.about {
+  color: var(--text-color);
+}
+
+.about_us {
+  margin: 2rem 0 1rem 0;
+  width: fit-content;
+  border-bottom: solid 1px var(--primary-color);
+  color: var(--text-color);
+}
+
 .nav-item {
   text-decoration: none;
   color: #fff;
