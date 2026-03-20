@@ -118,6 +118,10 @@ body {
   .button {
     padding: 1.2rem 2.5rem;
   }
+
+  .about-text {
+    font-size: 1rem;
+  }
 }
 
 @media only screen and (min-width: 1000px) {
@@ -127,5 +131,11 @@ body {
   .title {
     font-size: 6rem;
     line-height: 6.5rem;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .container {
+    max-width: 1200px;
   }
 }
