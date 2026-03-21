@@ -222,6 +222,14 @@ body {
   .about-text {
     font-size: 1rem;
   }
+  .contact-content {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .contact-image {
+    width: 60%;
+  }
 }
 
 @media only screen and (min-width: 1000px) {
@@ -260,6 +268,23 @@ body {
     width: 20rem;
     font-size: 1.2rem;
     margin-bottom: 0.5rem;
+  }
+
+  .contact .about_us {
+    margin-bottom: 2rem;
+  }
+
+  .contact-detail {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+  }
+
+  .contact-actions {
+    flex-direction: row;
+  }
+
+  .contact-image {
+    width: 50%;
   }
 }
 
