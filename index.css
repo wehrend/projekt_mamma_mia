@@ -130,6 +130,10 @@ body {
   gap: 0.5 rem;
 }
 
+.about-large-images {
+  min-width: 50%;
+}
+
 .about-image {
   width: 100%;
   height: 100%;
