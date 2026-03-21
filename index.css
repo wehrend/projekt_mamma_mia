@@ -152,6 +152,17 @@ body {
   gap: 0.5 rem;
 }
 
+.info-wrapper {
+  margin: 3rem 0;
+  padding: 2rem 0;
+  background:
+    linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./images/info.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .hours {
   color: var(--text-color);
   display: flex;
